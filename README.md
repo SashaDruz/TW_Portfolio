@@ -1,8 +1,8 @@
 # Technical Writer Portfolio
 ## Introduction
 Hi! I'm Oleksandra Druz, a Technical Writer with 1,5 years (and 3,5 years more as a Copywryter!) experience in creating user-focused documentation for business users of various domains and Data Management teams. This repository showcases samples of my work, highlighting my skills in creating clear, engaging, and effective documentation.
-<div class="alert">All samples are recreated to remove proprietary information.<br>
-Some interactive elements (e.g., GIFs, macros) are demonstrated using images.</div>
+- All samples are recreated to remove proprietary information.<br>
+- Some interactive elements (e.g., GIFs, macros) are demonstrated using images.
 ## Samples
 - [Game Install Instruction Example](https://github.com/SashaDruz/TW_Portfolio/blob/main/Game%20Install%20Instruction%20Example.pdf): A beginner-friendly guide for game purchase and installation.
 - [Creating user accounts in Apache Superset](https://github.com/SashaDruz/TW_Portfolio/blob/main/Creating_user_accounts_in_Apache_ec658f01c87d4494bc70bdf9e73a9212.pdf): More technical-oriented guide for tool administrators.
